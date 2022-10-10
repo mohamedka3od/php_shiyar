@@ -5,5 +5,6 @@ function test(int $num1 , int $num2): int{
     return  $num1 + $num2;
  
 }
-echo test(num2:5,num1:7);
+echo test(num2:5,num1:7).'<br><br>';
+
 ?>
